@@ -71,7 +71,7 @@ Key descriptive analyses included:
 
 These findings were supported with **visualizations** such as bar charts, line plots, and boxplots, which highlighted key workforce patterns and attrition risk factors.  
 
-A detailed summary of these insights, along with statistical testing results and recommendations, can also be found in the full [PDF Report](./IBM_HR_Analytics_Report.pdf).
+A detailed summary of these insights, along with statistical testing results and recommendations, can also be found in the full [PDF Report](HR_Analytics_Report.pdf).
 
 ## Data Analysis
 
